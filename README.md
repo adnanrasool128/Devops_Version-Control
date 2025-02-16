@@ -1,4 +1,4 @@
-# 🚀 DevOps Assignment 1: Version Control
+# 🚀 DevOps: Version Control
 
 ![Version Control](https://img.shields.io/badge/Version%20Control-SVN%20%7C%20Mercurial-blue.svg)
 ![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-orange.svg)
